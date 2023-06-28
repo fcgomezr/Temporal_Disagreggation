@@ -1,0 +1,16 @@
+
+ ******************************************************* 
+ TEMPORAL DISAGGREGATION METHOD: Multivariate Rossi 
+ ******************************************************* 
+-------------------------------------------------------
+ Number of low-frequency observations  :   14
+ Frequency conversion                  :    4
+ Number of high-frequency observations :   56
+ Number of extrapolations 	   		:    0
+ -------------------------------------------------------
+ Type of disaggregation: sum (flow). 
+-------------------------------------------------------
+ Preliminary univariate disaggregation:  Litterman 
+------------------------------------------------------- 
+Elapsed time:   0.0470
+ 

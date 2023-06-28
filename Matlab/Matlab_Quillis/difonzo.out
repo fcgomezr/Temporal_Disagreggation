@@ -1,0 +1,16 @@
+
+ ******************************************************* 
+ TEMPORAL DISAGGREGATION METHOD: Multivariate Di Fonzo 
+ ******************************************************* 
+-------------------------------------------------------
+ Number of low-frequency observations  :   14
+ Frequency conversion                  :    4
+ Number of high-frequency observations :   56
+ Number of extrapolations 	   		:    0
+ -------------------------------------------------------
+ Type of disaggregation: average (index). 
+-------------------------------------------------------
+ Model for the innovations: Random Walk. 
+------------------------------------------------------- 
+Elapsed time:   0.0360
+ 

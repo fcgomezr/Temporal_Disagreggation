@@ -1,0 +1,50 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Litterman 
+ **************************************************** 
+
+ ----------------------------------------------------
+ Number of low-frequency observations :   14
+ Frequency conversion                 :    4
+ Number of high-frequency observations:   60
+ Number of extrapolations             :    4
+ Number of indicators                 :    2
+ ---------------------------------------------------- 
+ Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+ Estimation method: Maximum likelihood. 
+----------------------------------------------------
+ ** High frequency model ** 
+  Beta parameters (columnwise): 
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ---------------------------------------------------- 
+-12157.5936       7962.0752         -1.5269
+     2.5195          1.1620          2.1682
+ ---------------------------------------------------- 
+ Innovational parameter:   0.6255
+ ---------------------------------------------------- 
+ AIC:  13.2851
+ BIC:  13.4220
+ ---------------------------------------------------- 
+Low-frequency correlation (Y,X) 
+  - levels     : 0.8382
+  - yoy rates  : 0.5510
+ ----------------------------------------------------
+High-frequency correlation (y,x) 
+  - levels     : 0.8355
+  - yoy rates  : 0.5451
+ ----------------------------------------------------
+High-frequency volatility of yoy rates 
+  - estimate   : 23.6800
+  - indicator  : 6.4655
+  - ratio      : 3.6625
+ ----------------------------------------------------
+High-frequency correlation (y,x*beta) 
+  - levels     : 0.8355
+  - yoy rates  : 0.5877
+ ----------------------------------------------------
+
+ Elapsed time:   0.0180
+ 

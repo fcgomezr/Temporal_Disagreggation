@@ -1,0 +1,14 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Boot-Feibes-Lisman 
+ **************************************************** 
+ Number of low-frequency observations  :    5
+ Frequency conversion                  :   12
+ Number of high-frequency observations :   60
+ ----------------------------------------------------
+ Degree of differencing                :    2
+  Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+
+ Elapsed time:   0.1540
+ ---------------------------------------------------- 

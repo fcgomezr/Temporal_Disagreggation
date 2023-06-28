@@ -1,0 +1,44 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Proietti 
+ **************************************************** 
+
+ ----------------------------------------------------
+ Number of low-frequency observations :   14
+ Frequency conversion                 :    4
+ Number of high-frequency observations:   60
+ Number of extrapolations             :    4
+ Number of indicators                 :    3
+ ---------------------------------------------------- 
+ Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+ Estimation method: Maximum likelihood. 
+----------------------------------------------------
+ ** High frequency model ** 
+  Beta parameters (columnwise): 
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ---------------------------------------------------- 
+ 6843.0574       8702.4681          0.7863
+     1.6845          0.6183          2.7245
+     0.1708          0.6081          0.2808
+ ---------------------------------------------------- 
+ Dynamic parameter:  -0.9583
+ ----------------------------------------------------
+ Long-run gain:     0.9474 
+ ----------------------------------------------------
+ Truncation remainder: expected y(0):
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ----------------------------------------------------
+80188.3504      55883.3872          1.4349
+ ---------------------------------------------------- 
+High-frequency correlation (y,x*beta) 
+  - levels     : 0.2100
+  - yoy rates  : -0.0103
+ ----------------------------------------------------
+
+ Elapsed time:   0.0540
+ 

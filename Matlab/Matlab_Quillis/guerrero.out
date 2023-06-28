@@ -1,0 +1,49 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Guerrero 
+ **************************************************** 
+
+ ----------------------------------------------------
+ Number of low-frequency observations :    5
+ Frequency conversion                 :   12
+ Number of high-frequency observations:   60
+ Number of extrapolations             :    0
+ Number of indicators                 :    2
+ ---------------------------------------------------- 
+ Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+ Estimation method: BLUE. 
+----------------------------------------------------
+ ** High frequency model ** 
+  Beta parameters (columnwise): 
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ---------------------------------------------------- 
+219988.6766      49659.7689          4.4299
+  1723.8723        481.2797          3.5819
+ ---------------------------------------------------- 
+---------------------------------------------------- 
+ AIC:   7.5245
+ BIC:   7.3683
+ ---------------------------------------------------- 
+Low-frequency correlation (Y,X) 
+  - levels     : 0.9003
+  - yoy rates  : 0.9973
+ ----------------------------------------------------
+High-frequency correlation (y,x) 
+  - levels     : 0.9289
+  - yoy rates  : 0.9835
+ ----------------------------------------------------
+High-frequency volatility of yoy rates 
+  - estimate   : 3.6623
+  - indicator  : 6.2899
+  - ratio      : 0.5823
+ ----------------------------------------------------
+High-frequency correlation (y,x*beta) 
+  - levels     : 0.9289
+  - yoy rates  : 0.9832
+ ----------------------------------------------------
+
+ Elapsed time:   0.0470
+ 

@@ -1,0 +1,17 @@
+
+ ******************************************************* 
+ TEMPORAL DISAGGREGATION METHOD: Multivariate Denton 
+  Type: Additive variant 
+ ******************************************************* 
+-------------------------------------------------------
+ Number of low-frequency observations  :   16
+ Frequency conversion                  :    4
+ Number of high-frequency observations :   64
+ Number of extrapolations 	   		:    0
+ -------------------------------------------------------
+ Type of disaggregation: average (index). 
+-------------------------------------------------------
+ Degree of differencing                :    2
+ ------------------------------------------------------- 
+Elapsed time:   0.0310
+ 

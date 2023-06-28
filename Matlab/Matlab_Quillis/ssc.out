@@ -1,0 +1,61 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Santos Silva-Cardoso 
+ **************************************************** 
+
+ ----------------------------------------------------
+ Number of low-frequency observations :   14
+ Frequency conversion                 :    4
+ Number of high-frequency observations:   60
+ Number of extrapolations             :    4
+ Number of indicators                 :    2
+ ---------------------------------------------------- 
+ Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+ Estimation method: Weighted least squares. 
+----------------------------------------------------
+ ** High frequency model ** 
+  Beta parameters (columnwise): 
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ---------------------------------------------------- 
+  827.2268        639.3786          1.2938
+     0.1052          0.0171          6.1507
+ ---------------------------------------------------- 
+ Dynamic parameter:   0.8908
+ ----------------------------------------------------
+ Long-run beta parameters (columnwise):
+  7575.4484 
+     0.9637 
+ ----------------------------------------------------
+ Truncation remainder: expected y(0):
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ----------------------------------------------------
+ 5843.4307       1678.1473          3.4821
+ ---------------------------------------------------- 
+ AIC:  14.7468
+ BIC:  14.8837
+ ---------------------------------------------------- 
+Low-frequency correlation (Y,X) 
+  - levels     : 0.9952
+  - yoy rates  : 0.6598
+ ----------------------------------------------------
+High-frequency correlation (y,x) 
+  - levels     : 0.9805
+  - yoy rates  : 0.5555
+ ----------------------------------------------------
+High-frequency volatility of yoy rates 
+  - estimate   : 7.1488
+  - indicator  : 7.6920
+  - ratio      : 0.9294
+ ----------------------------------------------------
+High-frequency correlation (y,x*beta) 
+  - levels     : 0.9805
+  - yoy rates  : 0.5424
+ ----------------------------------------------------
+
+ Elapsed time:   0.0780
+ 

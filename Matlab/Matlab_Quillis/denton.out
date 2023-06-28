@@ -1,0 +1,16 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Denton 
+  Type: Proportional variant 
+ **************************************************** 
+ Number of low-frequency observations  :   14
+ Frequency conversion                  :    4
+ Number of high-frequency observations :   56
+ Number of extrapolations              :    4
+ ----------------------------------------------------
+ Degree of differencing                :    2
+  Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+
+ Elapsed time:   0.0990
+ ---------------------------------------------------- 

@@ -1,0 +1,49 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Chow-Lin 
+ **************************************************** 
+
+ ----------------------------------------------------
+ Number of low-frequency observations :   11
+ Frequency conversion                 :    4
+ Number of high-frequency observations:   48
+ Number of extrapolations             :    4
+ Number of indicators                 :    1
+ ---------------------------------------------------- 
+ Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+ Estimation method: Maximum likelihood. 
+----------------------------------------------------
+ ** High frequency model ** 
+  Beta parameters (columnwise): 
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ---------------------------------------------------- 
+   38.3774          6.3041          6.0877
+ ---------------------------------------------------- 
+ Innovational parameter:   0.9985
+ ---------------------------------------------------- 
+ AIC:   9.5853
+ BIC:   9.6576
+ ---------------------------------------------------- 
+Low-frequency correlation (Y,X) 
+  - levels     : 0.9357
+  - yoy rates  : 0.9153
+ ----------------------------------------------------
+High-frequency correlation (y,x) 
+  - levels     : 0.9352
+  - yoy rates  : 0.9320
+ ----------------------------------------------------
+High-frequency volatility of yoy rates 
+  - estimate   : 5.6959
+  - indicator  : 8.4992
+  - ratio      : 0.6702
+ ----------------------------------------------------
+High-frequency correlation (y,x*beta) 
+  - levels     : 0.9352
+  - yoy rates  : 0.9320
+ ----------------------------------------------------
+
+ Elapsed time:   0.0460
+ 

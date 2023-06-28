@@ -1,0 +1,48 @@
+
+ **************************************************** 
+ TEMPORAL DISAGGREGATION METHOD: Fernandez 
+ **************************************************** 
+
+ ----------------------------------------------------
+ Number of low-frequency observations :   14
+ Frequency conversion                 :    4
+ Number of high-frequency observations:   60
+ Number of extrapolations             :    4
+ Number of indicators                 :    1
+ ---------------------------------------------------- 
+ Type of disaggregation: sum (flow). 
+---------------------------------------------------- 
+ Estimation method: BLUE. 
+----------------------------------------------------
+ ** High frequency model ** 
+  Beta parameters (columnwise): 
+   * Estimate 
+   * Std. deviation 
+   * t-ratios 
+ ---------------------------------------------------- 
+    0.8545          0.2501          3.4159
+ ---------------------------------------------------- 
+---------------------------------------------------- 
+ AIC:  14.5360
+ BIC:  14.5816
+ ---------------------------------------------------- 
+Low-frequency correlation (Y,X) 
+  - levels     : 0.8382
+  - yoy rates  : 0.5510
+ ----------------------------------------------------
+High-frequency correlation (y,x) 
+  - levels     : 0.8341
+  - yoy rates  : 0.5047
+ ----------------------------------------------------
+High-frequency volatility of yoy rates 
+  - estimate   : 22.4387
+  - indicator  : 6.4655
+  - ratio      : 3.4705
+ ----------------------------------------------------
+High-frequency correlation (y,x*beta) 
+  - levels     : 0.8341
+  - yoy rates  : 0.5047
+ ----------------------------------------------------
+
+ Elapsed time:   0.0050
+ 
